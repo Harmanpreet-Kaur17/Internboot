@@ -3,6 +3,7 @@ To build a machine learning regression model that predicts store sales based on 
 
 Dataset:
 Source: Kaggle – Store Sales Time Series Forecasting
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 Files used:
 train.csv
